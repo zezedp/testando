@@ -6,7 +6,7 @@ subtitle: <a>"Even the smallest person can change the course of the future."</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pep8n5ohwlt01.jpg
   image_circular: false # crops the image to make it circular
   more_info: <p>Localizado em Rio de Janeiro, Brasil</p>
 
