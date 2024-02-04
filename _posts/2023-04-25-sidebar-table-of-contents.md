@@ -10,7 +10,6 @@ related_posts: false
 toc:
   sidebar: left
 featured: false
-
 ---
 
 This post shows how to add a table of contents as a sidebar.

@@ -8,7 +8,6 @@ categories: sample-posts
 giscus_comments: true
 related_posts: false
 featured: false
-
 ---
 
 To include a jupyter notebook in a post, you can use the following code:
