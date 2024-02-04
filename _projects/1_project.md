@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Pico-CTF
+permalink: writeups/ctf/
+description: Write-Ups Pico-CTF
+img: assets/img/ctfs/picoctflogo.png
 importance: 1
 category: work
 related_publications: true
