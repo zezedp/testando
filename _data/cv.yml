@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Guilherme Cappelli Bouzon de Amorim Cruz
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13 de agosto de 2002
     - name: Languages
-      value: English, German
+      value: Português e Inglês
 
 - title: Education
   type: time_table
